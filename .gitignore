@@ -1,0 +1,8 @@
+/target
+*.war
+*.jar
+*.classpath
+*.project
+*.settings
+*.mvn
+*.springBeans
